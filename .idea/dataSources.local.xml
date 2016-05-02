@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - IOUsos@localhost" uuid="a5112eb0-bef9-4c31-be52-9df8c0e0a029">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>IOUsos.*</schema-pattern>
+      <default-schemas>IOUsos.*</default-schemas>
+    </data-source>
+  </component>
+</project>
