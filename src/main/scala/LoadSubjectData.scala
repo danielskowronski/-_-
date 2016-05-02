@@ -9,9 +9,9 @@ case class Subject(course_id: String, `match`: String)
 object LoadSubjectData {
 
 
-  private val converter: (Int) => JsValue = { start =>
+  private val converter: (Int, String) => JsValue = { (start, facId) =>
 
-    val url = s"https://apps.usos.uj.edu.pl/services/courses/search?lang=pl&fac_id=UJ.WMI.II&num=20&start=$start"
+    val url = s"https://apps.usos.uj.edu.pl/services/courses/search?lang=pl&fac_id=$facId&num=20&start=$start"
     val data = Source.fromURL(url, "UTF-8")
 
     Json.parse(data.mkString)
@@ -19,7 +19,7 @@ object LoadSubjectData {
 
   implicit val toSubjectConverter: Reads[Subject] = Json.reads[Subject]
 
-  def load(): Seq[Subject] = travelsToEnd(0, converter)
+  def load(): Seq[Subject] = travelsToEnd(0, converter(_, "UJ.WMI.II"))
 
   private def travelsToEnd(begin: Int, d: (Int) => JsValue): Seq[Subject] = {
 
@@ -34,7 +34,7 @@ object LoadSubjectData {
 
     while (hasNext) {
 
-//      println(jsonObject)
+      //      println(jsonObject)
       buff ++= (jsonObject \ "items").as[List[Subject]]
 
       start += delta
