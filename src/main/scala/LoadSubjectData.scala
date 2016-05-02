@@ -8,6 +8,7 @@ case class Subject(course_id: String, `match`: String)
 
 object LoadSubjectData {
 
+  implicit val toSubjectConverter: Reads[Subject] = Json.reads[Subject]
 
   private val converter: (Int, String) => JsValue = { (start, facId) =>
 
@@ -16,8 +17,6 @@ object LoadSubjectData {
 
     Json.parse(data.mkString)
   }
-
-  implicit val toSubjectConverter: Reads[Subject] = Json.reads[Subject]
 
   def load(): Seq[Subject] = travelsToEnd(0, converter(_, "UJ.WMI.II"))
 
