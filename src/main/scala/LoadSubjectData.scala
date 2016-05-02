@@ -19,9 +19,9 @@ object LoadSubjectData {
 
   implicit val toSubjectConverter: Reads[Subject] = Json.reads[Subject]
 
-  def load(): Seq[Subject] = travelseToEnd(0, converter)
+  def load(): Seq[Subject] = travelsToEnd(0, converter)
 
-  private def travelseToEnd(begin: Int, d: (Int) => JsValue): Seq[Subject] = {
+  private def travelsToEnd(begin: Int, d: (Int) => JsValue): Seq[Subject] = {
 
     val delta = 20
 
