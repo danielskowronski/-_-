@@ -2,7 +2,6 @@
   * Created by sobota on 23.04.16.
   */
 
-import com.fasterxml.jackson.databind.JsonNode
 import slick.driver.MySQLDriver.api._
 import slick.jdbc.meta.MTable
 
@@ -23,7 +22,7 @@ object SubjectDataStore extends App {
 
     val dataToSave: Seq[(Int, String, String)] = subjectsData.map { n =>
 
-      (1, n.course_id, n.`match`)
+      (Math.random().toInt, n.course_id, n.`match`)
     }
 
     val setup = DBIO.seq(
