@@ -8,3 +8,5 @@ container:start
 reload
 container:start
 run
+reload 
+run

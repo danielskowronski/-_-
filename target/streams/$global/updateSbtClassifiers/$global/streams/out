@@ -710,9 +710,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 1687ms :: artifacts dl 89ms
+[debug] :: resolution report :: resolve 1003ms :: artifacts dl 40ms
 [debug] 	report for default#iosubjectdownloader$sbt_2.11;1.0 default produced in /home/sobota/IdeaProjects/IOSubjectDownloader/target/resolution-cache/reports/default-iosubjectdownloader$sbt_2.11-default.xml
-[debug] 	resolve done (1687ms resolve - 89ms download)
+[debug] 	resolve done (1003ms resolve - 40ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#iosubjectdownloader$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1083,6 +1083,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
 [debug] 	[NOT REQUIRED] com.mojolly.scalate#xsbt-scalate-generator;0.5.0!xsbt-scalate-generator.jar(src)
-[debug] :: resolution report :: resolve 265ms :: artifacts dl 171ms
+[debug] :: resolution report :: resolve 208ms :: artifacts dl 109ms
 [debug] 	report for default#iosubjectdownloader$sources_2.11;1.0 default produced in /home/sobota/IdeaProjects/IOSubjectDownloader/target/resolution-cache/reports/default-iosubjectdownloader$sources_2.11-default.xml
-[debug] 	resolve done (265ms resolve - 171ms download)
+[debug] 	resolve done (208ms resolve - 109ms download)

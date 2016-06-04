@@ -8,7 +8,7 @@
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c6ffac6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7987761b
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -17,7 +17,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.6 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-json_2.11;2.4.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2263322e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37d394cc
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-json_2.11;2.4.6
 [debug] 	found com.typesafe.play#play-json_2.11;2.4.6 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.6 [compile->runtime]
@@ -25,7 +25,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.6 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.6 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-iteratees_2.11;2.4.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b4817b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fa54750
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-iteratees_2.11;2.4.6
 [debug] 	found com.typesafe.play#play-iteratees_2.11;2.4.6 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.6 [compile->runtime]
@@ -33,7 +33,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.6 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->default(compile)]
 [info] Resolving org.scala-stm#scala-stm_2.11;0.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@623229e3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@385af1db
 [debug] sbt-chain: module revision found in cache: org.scala-stm#scala-stm_2.11;0.7
 [debug] 	found org.scala-stm#scala-stm_2.11;0.7 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->runtime]
@@ -41,7 +41,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe#config;1.3.0 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@359f36b1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bf2cb2f
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.0
 [debug] 	found com.typesafe#config;1.3.0 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe#config;1.3.0 [compile->runtime]
@@ -49,7 +49,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe#config;1.3.0 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.6 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-functional_2.11;2.4.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a4db5ff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b29b159
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-functional_2.11;2.4.6
 [debug] 	found com.typesafe.play#play-functional_2.11;2.4.6 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.6 [compile->runtime]
@@ -57,7 +57,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.6 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.6 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-datacommons_2.11;2.4.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b696925
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7990e162
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-datacommons_2.11;2.4.6
 [debug] 	found com.typesafe.play#play-datacommons_2.11;2.4.6 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.6 [compile->runtime]
@@ -65,7 +65,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.6 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->joda-time#joda-time;2.8.1 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.8.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@192401db
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3711090c
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.8.1
 [debug] 	found joda-time#joda-time;2.8.1 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->joda-time#joda-time;2.8.1 [compile->runtime]
@@ -73,7 +73,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->joda-time#joda-time;2.8.1 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.joda#joda-convert;1.7 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c8a21a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@233e2a92
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.7
 [debug] 	found org.joda#joda-convert;1.7 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.joda#joda-convert;1.7 [compile->runtime]
@@ -81,7 +81,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.joda#joda-convert;1.7 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.6 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61fd3f3e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c652d89
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.6
 [debug] 	found org.scala-lang#scala-reflect;2.11.6 in sbt-chain
 [debug] 	[2.11.6] org.scala-lang#scala-reflect;2.11.6
@@ -90,7 +90,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.6 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@287b729f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e99ed83
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.5.4 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->runtime]
@@ -98,7 +98,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2007b684
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ed61c56
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.5.4 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->runtime]
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66a503ca
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e676027
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.5.4 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->runtime]
@@ -114,7 +114,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@114164ad
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1dc7e93e
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->runtime]
@@ -122,7 +122,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@710a0806
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1bcadb0f
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->runtime]
@@ -130,7 +130,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;3.1.1 [compile->default(compile)]
 [info] Resolving com.typesafe.slick#slick_2.11;3.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c9f1dab
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55c7b008
 [debug] sbt-chain: module revision found in cache: com.typesafe.slick#slick_2.11;3.1.1
 [debug] 	found com.typesafe.slick#slick_2.11;3.1.1 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;3.1.1 [compile->runtime]
@@ -138,7 +138,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->com.typesafe.slick#slick_2.11;3.1.1 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@538d0184
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60c7aebb
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.10
 [debug] 	found org.slf4j#slf4j-api;1.7.10 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.7.10 [compile->runtime]
@@ -146,7 +146,7 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.7.10 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->default(compile)]
 [info] Resolving org.reactivestreams#reactive-streams;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54ce5b39
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ba020d9
 [debug] sbt-chain: module revision found in cache: org.reactivestreams#reactive-streams;1.0.0
 [debug] 	found org.reactivestreams#reactive-streams;1.0.0 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->runtime]
@@ -154,12 +154,90 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->default(compile)]
 [info] Resolving mysql#mysql-connector-java;5.1.38 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8474b53
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@222122cb
 [debug] sbt-chain: module revision found in cache: mysql#mysql-connector-java;5.1.38
 [debug] 	found mysql#mysql-connector-java;5.1.38 in sbt-chain
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->default(compile)]
+[info] Resolving org.apache.httpcomponents#httpclient;4.5.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9a7132d
+[debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.5.2
+[debug] 	found org.apache.httpcomponents#httpclient;4.5.2 in sbt-chain
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->default(compile)]
+[info] Resolving org.apache.httpcomponents#httpcore;4.4.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a0cb603
+[debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.4.4
+[debug] 	found org.apache.httpcomponents#httpcore;4.4.4 in sbt-chain
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->default(compile)]
+[info] Resolving commons-logging#commons-logging;1.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e5a6e69
+[debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.2
+[debug] 	found commons-logging#commons-logging;1.2 in sbt-chain
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->default(compile)]
+[info] Resolving commons-codec#commons-codec;1.9 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b6d7b79
+[debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.9
+[debug] 	found commons-codec#commons-codec;1.9 in sbt-chain
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->default(compile)]
+[info] Resolving org.apache.httpcomponents#httpasyncclient;4.1.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76f9dd7d
+[debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpasyncclient;4.1.1
+[debug] 	found org.apache.httpcomponents#httpasyncclient;4.1.1 in sbt-chain
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->default(compile)]
+[info] Resolving org.apache.httpcomponents#httpcore-nio;4.4.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4459f5c9
+[info] Resolving org.apache.httpcomponents#httpcore-nio;4.4.4 ...
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@4459f5c9
+[debug] 		tried /home/sobota/.ivy2/local/org.apache.httpcomponents/httpcore-nio/4.4.4/ivys/ivy.xml
+[debug] 	local: no ivy file found for org.apache.httpcomponents#httpcore-nio;4.4.4
+[debug] 		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore-nio/4.4.4/httpcore-nio-4.4.4.pom
+[debug] 	public: found md file for org.apache.httpcomponents#httpcore-nio;4.4.4
+[debug] 		=> https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore-nio/4.4.4/httpcore-nio-4.4.4.pom (4.4.4)
+[debug] downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore-nio/4.4.4/httpcore-nio-4.4.4.pom ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore-nio/4.4.4/httpcore-nio-4.4.4.pom
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore-nio/4.4.4/httpcore-nio-4.4.4.pom.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore-nio/4.4.4/httpcore-nio-4.4.4.pom
+[debug] 	[SUCCESSFUL ] org.apache.httpcomponents#httpcore-nio;4.4.4!httpcore-nio.pom(pom.original) (198ms)
+[info] Resolving org.apache.httpcomponents#httpcomponents-core;4.4.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.apache.httpcomponents#httpcomponents-core;4.4.4 {}
+[debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcomponents-core;4.4.4
+[debug] 	found org.apache.httpcomponents#httpcore-nio;4.4.4 in public
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->default(compile)]
+[info] Resolving org.apache.commons#commons-io;1.3.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51f0f25f
+[debug] sbt-chain: module revision found in cache: org.apache.commons#commons-io;1.3.2
+[debug] 	found org.apache.commons#commons-io;1.3.2 in sbt-chain
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->default(compile)]
+[info] Resolving commons-io#commons-io;1.3.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51a8179a
+[debug] sbt-chain: module revision found in cache: commons-io#commons-io;1.3.2
+[debug] 	found commons-io#commons-io;1.3.2 in sbt-chain
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->master]
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [runtime]
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [compile]
@@ -239,6 +317,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
@@ -315,6 +425,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->master]
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [test]
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [runtime]
@@ -395,6 +537,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
@@ -471,6 +645,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->default(compile)]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->compile]
@@ -547,6 +753,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [test->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [test->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test->master]
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [provided]
 [debug] resolving dependencies for configuration 'optional'
@@ -630,6 +868,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->master]
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [provided]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile-internal->default(compile)]
@@ -708,6 +978,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile-internal->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile-internal->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile-internal->master]
 [debug] resolving dependencies for configuration 'runtime-internal'
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [runtime-internal]
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [runtime]
@@ -788,6 +1090,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
@@ -864,6 +1198,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->master]
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime-internal->default(compile)]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime-internal->runtime]
@@ -941,6 +1307,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime-internal->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime-internal->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime-internal->master]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [test-internal]
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [test]
@@ -1022,6 +1420,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [compile->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [compile->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
@@ -1098,6 +1528,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [runtime->master]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->default(compile)]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->compile]
@@ -1174,6 +1636,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [test->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [test->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test->master]
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [provided]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test-internal->default(compile)]
@@ -1252,6 +1746,38 @@
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [test-internal->runtime]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [test-internal->compile]
 [debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->mysql#mysql-connector-java;5.1.38 [test-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.2 [test-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.9 [test-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpasyncclient;4.1.1 [test-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore-nio;4.4.4 [test-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->org.apache.commons#commons-io;1.3.2 [test-internal->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test-internal->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test-internal->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_javadoc_2.11;1.0->commons-io#commons-io;1.3.2 [test-internal->master]
 [debug] resolving dependencies for configuration 'plugin'
 [debug] == resolving dependencies for default#iosubjectdownloader$sources_javadoc_2.11;1.0 [plugin]
 [debug] resolving dependencies for configuration 'sources'
@@ -1318,8 +1844,8 @@
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-iteratees_2.11;2.4.6!play-iteratees_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-iteratees_2.11;2.4.6!play-iteratees_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-iteratees_2.11;2.4.6!play-iteratees_2.11.jar
-[debug] 	[NOT REQUIRED] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar
 [debug] 	[NOT REQUIRED] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar
 [debug] 	[NOT REQUIRED] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] com.typesafe#config;1.3.0!config.jar
 [debug] 	[NOT REQUIRED] com.typesafe#config;1.3.0!config.jar(src)
@@ -1365,6 +1891,29 @@
 [debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.0!reactive-streams.jar
 [debug] 	[NOT REQUIRED] mysql#mysql-connector-java;5.1.38!mysql-connector-java.jar(src)
 [debug] 	[NOT REQUIRED] mysql#mysql-connector-java;5.1.38!mysql-connector-java.jar
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.5.2!httpclient.jar
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.5.2!httpclient.jar(doc)
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.5.2!httpclient.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.4.4!httpcore.jar
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.4.4!httpcore.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.4.4!httpcore.jar(doc)
+[debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.2!commons-logging.jar(doc)
+[debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.2!commons-logging.jar(src)
+[debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.2!commons-logging.jar
+[debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.9!commons-codec.jar
+[debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.9!commons-codec.jar(src)
+[debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.9!commons-codec.jar(doc)
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpasyncclient;4.1.1!httpasyncclient.jar
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpasyncclient;4.1.1!httpasyncclient.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpcore-nio;4.4.4!httpcore-nio.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpcore-nio;4.4.4!httpcore-nio.jar
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpcore-nio;4.4.4!httpcore-nio.jar(doc)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-io;1.3.2!commons-io.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-io;1.3.2!commons-io.jar
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-io;1.3.2!commons-io.jar(doc)
+[debug] 	[NOT REQUIRED] commons-io#commons-io;1.3.2!commons-io.jar
+[debug] 	[NOT REQUIRED] commons-io#commons-io;1.3.2!commons-io.jar(src)
+[debug] 	[NOT REQUIRED] commons-io#commons-io;1.3.2!commons-io.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar(src)
@@ -1375,7 +1924,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(doc)
-[debug] :: resolution report :: resolve 1304ms :: artifacts dl 270ms
+[debug] :: resolution report :: resolve 1826ms :: artifacts dl 166ms
 [debug] 	report for default#iosubjectdownloader$sources_javadoc_2.11;1.0 compile produced in /home/sobota/IdeaProjects/IOSubjectDownloader/target/resolution-cache/reports/default-iosubjectdownloader$sources_javadoc_2.11-compile.xml
 [debug] 	report for default#iosubjectdownloader$sources_javadoc_2.11;1.0 runtime produced in /home/sobota/IdeaProjects/IOSubjectDownloader/target/resolution-cache/reports/default-iosubjectdownloader$sources_javadoc_2.11-runtime.xml
 [debug] 	report for default#iosubjectdownloader$sources_javadoc_2.11;1.0 test produced in /home/sobota/IdeaProjects/IOSubjectDownloader/target/resolution-cache/reports/default-iosubjectdownloader$sources_javadoc_2.11-test.xml
@@ -1389,4 +1938,4 @@
 [debug] 	report for default#iosubjectdownloader$sources_javadoc_2.11;1.0 docs produced in /home/sobota/IdeaProjects/IOSubjectDownloader/target/resolution-cache/reports/default-iosubjectdownloader$sources_javadoc_2.11-docs.xml
 [debug] 	report for default#iosubjectdownloader$sources_javadoc_2.11;1.0 pom produced in /home/sobota/IdeaProjects/IOSubjectDownloader/target/resolution-cache/reports/default-iosubjectdownloader$sources_javadoc_2.11-pom.xml
 [debug] 	report for default#iosubjectdownloader$sources_javadoc_2.11;1.0 scala-tool produced in /home/sobota/IdeaProjects/IOSubjectDownloader/target/resolution-cache/reports/default-iosubjectdownloader$sources_javadoc_2.11-scala-tool.xml
-[debug] 	resolve done (1304ms resolve - 270ms download)
+[debug] 	resolve done (1826ms resolve - 166ms download)
