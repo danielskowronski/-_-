@@ -4,7 +4,7 @@
 		module="iosubjectdownloader$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160604140915"
+		publication="20160604141255"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
@@ -14,7 +14,5 @@
 	<dependencies>
 		<dependency org="org.scala-sbt" name="sbt" rev="0.13.8" conf="default->default(compile)"/>
 		<dependency org="com.mojolly.scalate" name="xsbt-scalate-generator" rev="0.5.0" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13"/>
-		<dependency org="org.scalatra.sbt" name="scalatra-sbt" rev="0.5.0" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13"/>
-		<dependency org="com.earldouglas" name="xsbt-web-plugin" rev="2.0.4" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13"/>
 	</dependencies>
 </ivy-module>

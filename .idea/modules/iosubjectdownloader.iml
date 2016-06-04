@@ -37,18 +37,10 @@
     <orderEntry type="library" name="SBT: com.typesafe.slick:slick_2.11:3.1.1:jar" level="project" />
     <orderEntry type="library" name="SBT: org.reactivestreams:reactive-streams:1.0.0:jar" level="project" />
     <orderEntry type="library" name="SBT: mysql:mysql-connector-java:5.1.38:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.googlecode.juniversalchardet:juniversalchardet:1.0.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: eu.medsea.mimeutil:mime-util:2.1.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.clapper:grizzled-slf4j_2.11:1.0.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scalatra.rl:rl_2.11:0.4.10:jar" level="project" />
     <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.7:jar" level="project" />
     <orderEntry type="library" name="SBT: joda-time:joda-time:2.8.1:jar" level="project" />
     <orderEntry type="library" name="SBT: org.joda:joda-convert:1.7:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scalatra:scalatra-common_2.11:2.3.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scalatra:scalatra_2.11:2.3.1:jar" level="project" />
     <orderEntry type="library" name="SBT: org.slf4j:slf4j-api:1.7.10:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.11.7:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-xml_2.11:1.0.4:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.11.6:jar" level="project" />
   </component>
 </module>

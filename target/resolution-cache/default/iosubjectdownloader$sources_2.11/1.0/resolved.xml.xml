@@ -4,7 +4,7 @@
 		module="iosubjectdownloader$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160604140917"
+		publication="20160604141257"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
@@ -170,12 +170,6 @@
 		</dependency>
 		<dependency org="com.mojolly.scalate" name="xsbt-scalate-generator" rev="0.5.0" transitive="false" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13">
 			<artifact name="xsbt-scalate-generator" type="src" ext="jar" conf="sources" e:classifier="sources"/>
-		</dependency>
-		<dependency org="org.scalatra.sbt" name="scalatra-sbt" rev="0.5.0" transitive="false" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13">
-			<artifact name="scalatra-sbt" type="src" ext="jar" conf="sources" e:classifier="sources"/>
-		</dependency>
-		<dependency org="com.earldouglas" name="xsbt-web-plugin" rev="2.0.4" transitive="false" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13">
-			<artifact name="xsbt-web-plugin" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 		</dependency>
 	</dependencies>
 </ivy-module>
