@@ -5,18 +5,140 @@
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'compile'
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->com.mojolly.scalate#xsbt-scalate-generator;0.5.0 [compile->default(compile)]
+[info] Resolving com.mojolly.scalate#xsbt-scalate-generator;0.5.0 ...
+[debug] sbt-chain: Checking cache for: dependency: com.mojolly.scalate#xsbt-scalate-generator;0.5.0 {compile=[default(compile)]}
+[info] Resolving com.mojolly.scalate#xsbt-scalate-generator;0.5.0 ...
+[debug] sbt-chain-delegate: Checking cache for: dependency: com.mojolly.scalate#xsbt-scalate-generator;0.5.0 {compile=[default(compile)]}
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml
+[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml
+[debug] 	typesafe-ivy-releases: no ivy file found for com.mojolly.scalate#xsbt-scalate-generator;0.5.0
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml
+[debug] 	sbt-plugin-releases: found md file for com.mojolly.scalate#xsbt-scalate-generator;0.5.0
+[debug] 		=> https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml (0.5.0)
+[debug] downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml ...
+[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml
+[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml.sha1
+[debug] sha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml
+[debug] 	[SUCCESSFUL ] com.mojolly.scalate#xsbt-scalate-generator;0.5.0!ivy.xml(ivy.original) (1864ms)
+[debug] 	found com.mojolly.scalate#xsbt-scalate-generator;0.5.0 in sbt-plugin-releases
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->default(compile)]
+[info] Resolving org.scalatra.sbt#scalatra-sbt;0.5.0 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scalatra.sbt#scalatra-sbt;0.5.0 {compile=[default(compile)]}
+[info] Resolving org.scalatra.sbt#scalatra-sbt;0.5.0 ...
+[debug] sbt-chain-delegate: Checking cache for: dependency: org.scalatra.sbt#scalatra-sbt;0.5.0 {compile=[default(compile)]}
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scalatra.sbt/scalatra-sbt/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml
+[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.scalatra.sbt/scalatra-sbt/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml
+[debug] 	typesafe-ivy-releases: no ivy file found for org.scalatra.sbt#scalatra-sbt;0.5.0
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalatra.sbt/scalatra-sbt/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml
+[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalatra.sbt/scalatra-sbt/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml
+[debug] 	sbt-plugin-releases: no ivy file found for org.scalatra.sbt#scalatra-sbt;0.5.0
+[debug] 		tried /home/sobota/.ivy2/local/org.scalatra.sbt/scalatra-sbt/scala_2.10/sbt_0.13/0.5.0/ivys/ivy.xml
+[debug] 	local: no ivy file found for org.scalatra.sbt#scalatra-sbt;0.5.0
+[debug] 		tried https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.pom
+[debug] 	public: found md file for org.scalatra.sbt#scalatra-sbt;0.5.0
+[debug] 		=> https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.pom (0.5.0)
+[debug] downloading https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.pom ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.pom
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.pom.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.pom
+[debug] 	[SUCCESSFUL ] org.scalatra.sbt#scalatra-sbt;0.5.0!scalatra-sbt.pom(pom.original) (186ms)
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scalatra.sbt/scalatra-sbt/0.5.0/jars/scalatra-sbt.jar
+[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.scalatra.sbt/scalatra-sbt/0.5.0/jars/scalatra-sbt.jar
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalatra.sbt/scalatra-sbt/0.5.0/jars/scalatra-sbt.jar
+[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalatra.sbt/scalatra-sbt/0.5.0/jars/scalatra-sbt.jar
+[debug] 		tried /home/sobota/.ivy2/local/org.scalatra.sbt/scalatra-sbt/0.5.0/jars/scalatra-sbt.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt/0.5.0/scalatra-sbt-0.5.0.jar
+[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt/0.5.0/scalatra-sbt-0.5.0.jar
+[debug] 	found org.scalatra.sbt#scalatra-sbt;0.5.0 in public
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->master(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[info] Resolving com.earldouglas#xsbt-web-plugin;2.0.4 ...
+[debug] sbt-chain: Checking cache for: dependency: com.earldouglas#xsbt-web-plugin;2.0.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+[info] Resolving com.earldouglas#xsbt-web-plugin;2.0.4 ...
+[debug] sbt-chain-delegate: Checking cache for: dependency: com.earldouglas#xsbt-web-plugin;2.0.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/ivys/ivy.xml
+[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/ivys/ivy.xml
+[debug] 	typesafe-ivy-releases: no ivy file found for com.earldouglas#xsbt-web-plugin;2.0.4
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/ivys/ivy.xml
+[debug] 	sbt-plugin-releases: found md file for com.earldouglas#xsbt-web-plugin;2.0.4
+[debug] 		=> https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/ivys/ivy.xml (2.0.4)
+[debug] downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/ivys/ivy.xml ...
+[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/ivys/ivy.xml
+[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/ivys/ivy.xml.sha1
+[debug] sha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/ivys/ivy.xml
+[debug] 	[SUCCESSFUL ] com.earldouglas#xsbt-web-plugin;2.0.4!ivy.xml(ivy.original) (2050ms)
+[debug] 	found com.earldouglas#xsbt-web-plugin;2.0.4 in sbt-plugin-releases
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->compile(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->runtime(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->master]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->com.mojolly.scalate#xsbt-scalate-generator;0.5.0 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->master(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->compile(*)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->master]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [test]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->com.mojolly.scalate#xsbt-scalate-generator;0.5.0 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->master(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->compile(*)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->master]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@674e769c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15aaed7c
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -713,6 +835,26 @@
 [debug] resolving dependencies for configuration 'compile-internal'
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [compile-internal]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->com.mojolly.scalate#xsbt-scalate-generator;0.5.0 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->master(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->compile(*)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->master]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [optional]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
@@ -1185,12 +1327,52 @@
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [runtime-internal]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->com.mojolly.scalate#xsbt-scalate-generator;0.5.0 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->master(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->compile(*)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->master]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [optional]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [test-internal]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [test]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->com.mojolly.scalate#xsbt-scalate-generator;0.5.0 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->master(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->compile(*)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->compile]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]}
+[debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scalatra.sbt#scalatra-sbt;0.5.0 [compile->master]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [optional]
 [debug] == resolving dependencies for default#iosubjectdownloader-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
@@ -1710,6 +1892,24 @@
 [debug] == resolving dependencies default#iosubjectdownloader-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [scala-tool->optional(default)]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/jars/xsbt-scalate-generator.jar
+[info] downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/jars/xsbt-scalate-generator.jar ...
+[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/jars/xsbt-scalate-generator.jar
+[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/jars/xsbt-scalate-generator.jar.sha1
+[debug] sha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.mojolly.scalate/xsbt-scalate-generator/scala_2.10/sbt_0.13/0.5.0/jars/xsbt-scalate-generator.jar
+[info] 	[SUCCESSFUL ] com.mojolly.scalate#xsbt-scalate-generator;0.5.0!xsbt-scalate-generator.jar (2567ms)
+[debug] 		tried https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.jar
+[info] downloading https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.jar
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.jar.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/scalatra/sbt/scalatra-sbt_2.10_0.13/0.5.0/scalatra-sbt-0.5.0.jar
+[info] 	[SUCCESSFUL ] org.scalatra.sbt#scalatra-sbt;0.5.0!scalatra-sbt.jar (492ms)
+[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/jars/xsbt-web-plugin.jar
+[info] downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/jars/xsbt-web-plugin.jar ...
+[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/jars/xsbt-web-plugin.jar
+[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/jars/xsbt-web-plugin.jar.sha1
+[debug] sha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/xsbt-web-plugin/scala_2.10/sbt_0.13/2.0.4/jars/xsbt-web-plugin.jar
+[info] 	[SUCCESSFUL ] com.earldouglas#xsbt-web-plugin;2.0.4!xsbt-web-plugin.jar (2619ms)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#sbt;0.13.8!sbt.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#main;0.13.8!main.jar
@@ -1766,7 +1966,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 5940ms :: artifacts dl 241ms
+[debug] :: resolution report :: resolve 16950ms :: artifacts dl 5852ms
 [debug] 	report for default#iosubjectdownloader-build;0.1-SNAPSHOT compile produced in /home/sobota/IdeaProjects/IOSubjectDownloader/project/target/resolution-cache/reports/default-iosubjectdownloader-build-compile.xml
 [debug] 	report for default#iosubjectdownloader-build;0.1-SNAPSHOT runtime produced in /home/sobota/IdeaProjects/IOSubjectDownloader/project/target/resolution-cache/reports/default-iosubjectdownloader-build-runtime.xml
 [debug] 	report for default#iosubjectdownloader-build;0.1-SNAPSHOT test produced in /home/sobota/IdeaProjects/IOSubjectDownloader/project/target/resolution-cache/reports/default-iosubjectdownloader-build-test.xml
@@ -1780,5 +1980,5 @@
 [debug] 	report for default#iosubjectdownloader-build;0.1-SNAPSHOT docs produced in /home/sobota/IdeaProjects/IOSubjectDownloader/project/target/resolution-cache/reports/default-iosubjectdownloader-build-docs.xml
 [debug] 	report for default#iosubjectdownloader-build;0.1-SNAPSHOT pom produced in /home/sobota/IdeaProjects/IOSubjectDownloader/project/target/resolution-cache/reports/default-iosubjectdownloader-build-pom.xml
 [debug] 	report for default#iosubjectdownloader-build;0.1-SNAPSHOT scala-tool produced in /home/sobota/IdeaProjects/IOSubjectDownloader/project/target/resolution-cache/reports/default-iosubjectdownloader-build-scala-tool.xml
-[debug] 	resolve done (5940ms resolve - 241ms download)
+[debug] 	resolve done (16950ms resolve - 5852ms download)
 [info] Done updating.

@@ -647,9 +647,40 @@
 [debug] == resolving dependencies org.scala-sbt#precompiled-2_9_3;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->compile]
 [debug] == resolving dependencies org.scala-sbt#precompiled-2_9_3;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->master]
 [debug] == resolving dependencies org.scala-sbt#precompiled-2_9_3;0.13.8->org.scala-sbt#interface;0.13.8 [compile->default(compile)]
+[debug] == resolving dependencies default#iosubjectdownloader$sbt_2.11;1.0->com.mojolly.scalate#xsbt-scalate-generator;0.5.0 [default->default(compile)]
+[info] Resolving com.mojolly.scalate#xsbt-scalate-generator;0.5.0 ...
+[debug] sbt-chain: Checking cache for: dependency: com.mojolly.scalate#xsbt-scalate-generator;0.5.0 {default=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: com.mojolly.scalate#xsbt-scalate-generator;0.5.0
+[debug] 	found com.mojolly.scalate#xsbt-scalate-generator;0.5.0 in sbt-chain
+[debug] 	[0.5.0] com.mojolly.scalate#xsbt-scalate-generator;0.5.0
+[debug] == resolving dependencies default#iosubjectdownloader$sbt_2.11;1.0->org.scalatra.sbt#scalatra-sbt;0.5.0 [default->default(compile)]
+[info] Resolving org.scalatra.sbt#scalatra-sbt;0.5.0 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scalatra.sbt#scalatra-sbt;0.5.0 {default=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scalatra.sbt#scalatra-sbt;0.5.0
+[debug] 	found org.scalatra.sbt#scalatra-sbt;0.5.0 in sbt-chain
+[debug] 	[0.5.0] org.scalatra.sbt#scalatra-sbt;0.5.0
+[debug] == resolving dependencies default#iosubjectdownloader$sbt_2.11;1.0->org.scalatra.sbt#scalatra-sbt;0.5.0 [default->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sbt_2.11;1.0->org.scalatra.sbt#scalatra-sbt;0.5.0 [default->compile]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->master(compile)]
+[info] Resolving com.earldouglas#xsbt-web-plugin;2.0.4 ...
+[debug] sbt-chain: Checking cache for: dependency: com.earldouglas#xsbt-web-plugin;2.0.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+[debug] sbt-chain: module revision found in cache: com.earldouglas#xsbt-web-plugin;2.0.4
+[debug] 	found com.earldouglas#xsbt-web-plugin;2.0.4 in sbt-chain
+[debug] 	[2.0.4] com.earldouglas#xsbt-web-plugin;2.0.4
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->compile(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->runtime(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->compile]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [compile->default(compile)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scalatra.sbt#scalatra-sbt;0.5.0->com.earldouglas#xsbt-web-plugin;2.0.4 [runtime->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sbt_2.11;1.0->org.scalatra.sbt#scalatra-sbt;0.5.0 [default->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sbt_2.11;1.0->com.earldouglas#xsbt-web-plugin;2.0.4 [default->default(compile)]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] org.scala-sbt#sbt;0.13.8!sbt.jar
+[debug] 	[NOT REQUIRED] com.mojolly.scalate#xsbt-scalate-generator;0.5.0!xsbt-scalate-generator.jar
+[debug] 	[NOT REQUIRED] org.scalatra.sbt#scalatra-sbt;0.5.0!scalatra-sbt.jar
+[debug] 	[NOT REQUIRED] com.earldouglas#xsbt-web-plugin;2.0.4!xsbt-web-plugin.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#main;0.13.8!main.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#compiler-interface;0.13.8!compiler-interface-bin.jar
@@ -703,9 +734,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 1654ms :: artifacts dl 84ms
+[debug] :: resolution report :: resolve 1071ms :: artifacts dl 28ms
 [debug] 	report for default#iosubjectdownloader$sbt_2.11;1.0 default produced in /home/sobota/IdeaProjects/IOSubjectDownloader/target/resolution-cache/reports/default-iosubjectdownloader$sbt_2.11-default.xml
-[debug] 	resolve done (1654ms resolve - 84ms download)
+[debug] 	resolve done (1071ms resolve - 28ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#iosubjectdownloader$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1015,6 +1046,27 @@
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#precompiled-2_9_3;0.13.8 {default=[default(compile)]}
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#precompiled-2_9_3;0.13.8
 [debug] 	found org.scala-sbt#precompiled-2_9_3;0.13.8 in sbt-chain
+[debug] == resolving dependencies default#iosubjectdownloader$sources_2.11;1.0->com.mojolly.scalate#xsbt-scalate-generator;0.5.0 [default->default(compile)]
+[info] Resolving com.mojolly.scalate#xsbt-scalate-generator;0.5.0 ...
+[debug] sbt-chain: Checking cache for: dependency: com.mojolly.scalate#xsbt-scalate-generator;0.5.0 {default=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: com.mojolly.scalate#xsbt-scalate-generator;0.5.0
+[debug] 	found com.mojolly.scalate#xsbt-scalate-generator;0.5.0 in sbt-chain
+[debug] 	[0.5.0] com.mojolly.scalate#xsbt-scalate-generator;0.5.0
+[debug] == resolving dependencies default#iosubjectdownloader$sources_2.11;1.0->org.scalatra.sbt#scalatra-sbt;0.5.0 [default->default(compile)]
+[info] Resolving org.scalatra.sbt#scalatra-sbt;0.5.0 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scalatra.sbt#scalatra-sbt;0.5.0 {default=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scalatra.sbt#scalatra-sbt;0.5.0
+[debug] 	found org.scalatra.sbt#scalatra-sbt;0.5.0 in sbt-chain
+[debug] 	[0.5.0] org.scalatra.sbt#scalatra-sbt;0.5.0
+[debug] == resolving dependencies default#iosubjectdownloader$sources_2.11;1.0->org.scalatra.sbt#scalatra-sbt;0.5.0 [default->runtime]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_2.11;1.0->org.scalatra.sbt#scalatra-sbt;0.5.0 [default->compile]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_2.11;1.0->org.scalatra.sbt#scalatra-sbt;0.5.0 [default->master]
+[debug] == resolving dependencies default#iosubjectdownloader$sources_2.11;1.0->com.earldouglas#xsbt-web-plugin;2.0.4 [default->default(compile)]
+[info] Resolving com.earldouglas#xsbt-web-plugin;2.0.4 ...
+[debug] sbt-chain: Checking cache for: dependency: com.earldouglas#xsbt-web-plugin;2.0.4 {default=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: com.earldouglas#xsbt-web-plugin;2.0.4
+[debug] 	found com.earldouglas#xsbt-web-plugin;2.0.4 in sbt-chain
+[debug] 	[2.0.4] com.earldouglas#xsbt-web-plugin;2.0.4
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] org.scala-sbt#sbt;0.13.8!sbt.jar(src)
@@ -1069,6 +1121,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 236ms :: artifacts dl 57ms
+[debug] 	[NOT REQUIRED] com.mojolly.scalate#xsbt-scalate-generator;0.5.0!xsbt-scalate-generator.jar(src)
+[debug] 	[NOT REQUIRED] org.scalatra.sbt#scalatra-sbt;0.5.0!scalatra-sbt.jar(src)
+[debug] 	[NOT REQUIRED] com.earldouglas#xsbt-web-plugin;2.0.4!xsbt-web-plugin.jar(src)
+[debug] :: resolution report :: resolve 177ms :: artifacts dl 61ms
 [debug] 	report for default#iosubjectdownloader$sources_2.11;1.0 default produced in /home/sobota/IdeaProjects/IOSubjectDownloader/target/resolution-cache/reports/default-iosubjectdownloader$sources_2.11-default.xml
-[debug] 	resolve done (236ms resolve - 57ms download)
+[debug] 	resolve done (177ms resolve - 61ms download)

@@ -8,6 +8,23 @@
     <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
     <database-model serializer="dbm" rdbms="MYSQL" format-version="2.4">
       <schema id="1" name="IOUsos"/>
+      <table id="2" parent="1" name="SUBJECTS"/>
+      <column id="3" parent="2" name="ID">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="4" parent="2" name="USOS_CODE">
+        <mandatory>1</mandatory>
+        <data-type>text</data-type>
+      </column>
+      <column id="5" parent="2" name="SUBJECT_NAME">
+        <mandatory>1</mandatory>
+        <data-type>text</data-type>
+      </column>
+      <key id="6" parent="2" name="PRIMARY">
+        <columns>ID</columns>
+        <primary>1</primary>
+      </key>
     </database-model>
   </data-source>
 </component>

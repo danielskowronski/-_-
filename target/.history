@@ -1,2 +1,10 @@
 sbt run
 run
+compile
+rload
+reload
+compile
+container:start
+reload
+container:start
+run
