@@ -1,50 +1,99 @@
 package planner
 
-/**
-  * Created by sobota on 23.04.16.
-  */
-
 import slick.driver.MySQLDriver.api._
-import slick.jdbc.meta.MTable
+import userInfoDownloader.{USOSwebInteractor, UserEntity}
 
+import scala.collection.JavaConverters._
 import scala.concurrent.Await
-import scala.concurrent.ExecutionContext.Implicits._
 import scala.concurrent.duration.Duration
+
 
 object SubjectDataStore extends App {
 
   val subjectQuery = TableQuery[SubjectEntity]
+  val userInfoQuery = TableQuery[UserEntity]
+
   val db = Database.forConfig("mysqlConf")
 
-  val schema = subjectQuery.schema
 
-  try {
+  def acquireSubjectData() = {
 
-    val subjectsData: Seq[Subject] = LoadSubjectData.load()
+    val subjectSchema = subjectQuery.schema
 
-    val dataToSave: Seq[(Int, String, String)] = subjectsData.map { n =>
+    try {
 
-      (Math.random().toInt, n.course_id, n.`match`)
+      val subjectsData: Seq[Subject] = LoadSubjectData.load()
+
+      val subjectDataToSave: Seq[(Int, String, String)] = subjectsData.map { n =>
+
+        (Math.random().toInt, n.course_id, n.`match`)
+      }
+
+
+      val setup = DBIO.seq(
+
+        /**
+          * If you WANT create table-> uncomment this
+          */
+        //        subjectSchema.create,
+        subjectQuery ++= subjectDataToSave
+      )
+
+      Await.result(
+
+        db.run(setup),
+        Duration.Inf)
+
+
     }
 
-    val setup = DBIO.seq(
+  }
 
-      MTable.getTables.map(t => {
+  def acquireUserInfoData(): Unit = {
 
-        if (t.exists(_.name.name == subjectQuery.baseTableRow.tableName)) {
+    val usersInfoSchema = userInfoQuery.schema
 
-          schema.create
-        }
-      }),
+    val usosUserDataLoader = new USOSwebInteractor()
+    //load user
+    val user = usosUserDataLoader.loadUserData()
 
-      subjectQuery ++= dataToSave
-    )
+    val userDataToSave: (Int, String, String, String, String) = (Math.random().toInt, user.indexNumber, user.facultyCode, user.regPeriod, user.regCodes.asScala.mkString(","))
 
-    Await.result(
+    try {
+      val setup = DBIO.seq(
 
-      db.run(setup), Duration.Inf)
+        /**
+          * If you WANT create table-> uncomment this
+          */
+        //        usersInfoSchema.create,
+
+        userInfoQuery += userDataToSave
+      )
+
+      Await.result(
+
+        db.run(setup),
+        Duration.Inf)
 
 
-  } finally db.close
+    }
+
+  }
+
+
+  def close() = db.close
+
+  /**
+    * Entry POINT
+    *
+    * Before FIRST RUN set your dayta in following code
+    *
+    * @see UserCreditailsStore
+    */
+
+  acquireSubjectData()
+  acquireUserInfoData()
+
+  close()
 
 }

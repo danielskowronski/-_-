@@ -17,7 +17,6 @@ import java.util.concurrent.Future;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-
 /**
  * Prototype of USOSweb dirty auth and basic data retrieval.
  * I have bad feeling that this code will be on production as-is...
@@ -92,8 +91,8 @@ public class USOSwebInteractor {
             String fc = writer.toString();
             String[] tmp = fc.split("\\|");
 */
-        login = UserDAO.password();
-        pass = UserDAO.username();
+        login = UserCreditailsStore.password();
+        pass = UserCreditailsStore.username();
 /*
 //            login = URLEncoder.encode(tmp[0], "UTF-8");
 //            pass = URLEncoder.encode(tmp[1], "UTF-8");
@@ -138,10 +137,18 @@ public class USOSwebInteractor {
             );
 
 
-            Pattern p = Pattern.compile("tura_id='(.*?)'");
+            String regPeriod = "";
+            Pattern p = Pattern.compile("rej_kod=(.*?)\\&");
             Matcher m = p.matcher(registratiosnAvailable);
+            m.find();
+            regPeriod = java.net.URLDecoder.decode(m.group(1), "UTF-8");
+
+            p = Pattern.compile("tura_id='(.*?)'");
+            m = p.matcher(registratiosnAvailable);
+
             List<Integer> ra = new ArrayList<Integer>();
             registratiosnAvailable = "";
+
             while (m.find()) {
                 ra.add(Integer.valueOf(m.group(1)));
                 registratiosnAvailable += m.group(1) + ", ";
@@ -149,12 +156,12 @@ public class USOSwebInteractor {
 
             System.out.println("Dostępne rejestracje: " + registratiosnAvailable);
 
-
             httpclient.close();
 
-            user = new User(indexNumber, factultyCode, ra);
+            user = new User(indexNumber, factultyCode, ra, regPeriod);
 
             return user;
+
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -162,7 +169,6 @@ public class USOSwebInteractor {
 
         return user;
     }
-
 
     private enum HTTP_TYPE {GET, POST}
 }
